@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:/resources/views/auth/
+Disallow:/resources/views/emails/
+Disallow:/resources/views/user/
+Disallow:/public/
+Disallow:/resources/views/errors/
+Disallow:/database/
+Disallow:/.env/
+Disallow:/.env.example/

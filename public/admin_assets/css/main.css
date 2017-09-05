@@ -1,0 +1,28 @@
+#user-page-flash {
+	display:none;
+}
+
+.approval-btn {
+	display:none;
+}
+
+#total-amt-gb .amt-gb {
+	float:left;
+	width:14.28571428571429%;
+	text-align:center;
+}
+
+#total-trans .tot {
+	float:left;
+	width:25%;
+	text-align:center;
+}
+
+
+.l-mtn{color:#FFCA08; font-size:22px;}
+.l-eti{color:#C7D42F; font-size:22px;}
+.l-atl{color:#D62128; font-size:22px;}
+.l-glo{color:#14A508; font-size:22px;}
+
+.ticket-close { float: right; }
+.ticket-close .btn { line-height: 1; }
